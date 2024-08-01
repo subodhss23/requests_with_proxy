@@ -8,4 +8,12 @@ Customization: Easily modify the URL, headers, and proxy API endpoint to suit di
 
 This tool is ideal for developers who need to scrape websites without getting blocked, or anyone interested in learning about making web requests with proxies in Python.
 
+Installation & Usage
+1. Install the requests module:
+pip install requests
+
+2. Run the script:
+python requests_with_proxy.py
+
+
 Note: This tool is intended for educational purposes only. Users are responsible for ensuring that their activities comply with all applicable laws and website terms of service. Unauthorized web scraping or use of proxies may violate legal or ethical guidelines.
